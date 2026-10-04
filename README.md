@@ -3,19 +3,23 @@
     width="100%"
     srcset="./assets/promo.png"
   />
-  <img width="250" src="./promo.png"" />
+  <img width="250" src="./promo.png" />
 </picture>
 
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/logo_dark.png">
     <source media="(prefers-color-scheme: light)" srcset="./assets/logo_light.png">
-    <img alt="Swiff Logo" src="./assets/swiff-light.png" width="34">
+    <img alt="Swivel Logo" src="./assets/swivel-light.png" width="34">
   </picture>
-  Swiff
+  Swivel
 </h1>
 
 <p align="center">Bringing Flash games and more to Android, dead simple.</p>
+
+<p align="center">
+  <strong>An upcoming fork of Swiff with additional changes and improvements.</strong>
+</p>
 
 <div align="center">
   <table>
@@ -28,90 +32,149 @@
   </table>
 </div>
 
+## 🚧 Status
+
+Swivel is currently **in development**.
+
+Swivel is a fork of [Swiff](https://github.com/NaviVani-dev/Swiff), with additional changes, improvements, and other planned modifications.
+
+**Swivel is coming soon, but there is currently no confirmed release date.**
+
+More information, features, screenshots, and release details will be added as development continues.
+
+> **Note:** Swivel is an independent fork and is not the original Swiff project.
+
 ## Features
-- Over 100k of flash content available! Just click Download and Play! (Huge thanks to the [Flashpoint Archive](https://flashpointarchive.org/))
+
+- Over 100k of Flash content available! Just click Download and Play! (Huge thanks to the [Flashpoint Archive](https://flashpointarchive.org/))
 - More than Flash: Play **HTML5, J2ME and Scratch games**, all in the same app!
-- On-Screen controls for keyboard and mouse input
+- On-screen controls for keyboard and mouse input
 - Gamepad mapping to keyboard and mouse input
 - Offline proxy to trick games into thinking they are running on their official websites
-- Newgrounds integration: Download games from the website and unlock medals!
-- Frontend and Android shortcuts support (including automatic frontend syncing)
-- Export your savefiles to a custom folder (for syncing with apps like [Syncthing](https://github.com/syncthing))
-- Custom content importing (Custom games support every feature Swiff has to offer)
+- Newgrounds integration
+- Frontend and Android shortcuts support
+- Automatic frontend syncing
+- Export your savefiles to a custom folder for syncing with apps like [Syncthing](https://github.com/syncthing)
+- Custom content importing
+- Custom games support
+- Additional Swivel-specific changes and improvements
 
 ## Download
-You can download Swiff from the Releases page!
-### [Download latest release](https://github.com/NaviVani-dev/Swiff/releases/latest)
 
-Or you can click the badge to add Swiff to Obtainium.
+### Coming Soon
 
-[<img src="https://raw.githubusercontent.com/ImranR98/Obtainium/refs/heads/main/assets/graphics/badge_obtainium.png"
-     alt="Get it on Obtainium"
-     height="72"
-     style="border: 13px solid transparent;">](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22io.navivani.swiff%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FNaviVani-dev%2FSwiff%22%2C%22author%22%3A%22NaviVani-dev%22%2C%22name%22%3A%22Swiff%22%2C%22preferredApkIndex%22%3A0%2C%22additionalSettings%22%3A%22%7B%5C%22includePrereleases%5C%22%3Afalse%2C%5C%22fallbackToOlderReleases%5C%22%3Atrue%2C%5C%22filterReleaseTitlesByRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22filterReleaseNotesByRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22verifyLatestTag%5C%22%3Afalse%2C%5C%22sortMethodChoice%5C%22%3A%5C%22date%5C%22%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Afalse%2C%5C%22releaseTitleAsVersion%5C%22%3Afalse%2C%5C%22trackOnly%5C%22%3Afalse%2C%5C%22versionExtractionRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22matchGroupToUse%5C%22%3A%5C%22%5C%22%2C%5C%22versionDetection%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Afalse%2C%5C%22useVersionCodeAsOSVersion%5C%22%3Afalse%2C%5C%22apkFilterRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22invertAPKFilter%5C%22%3Afalse%2C%5C%22autoApkFilterByArch%5C%22%3Atrue%2C%5C%22appName%5C%22%3A%5C%22Swiff%20%5C%22%2C%5C%22appAuthor%5C%22%3A%5C%22NaviVani%5C%22%2C%5C%22shizukuPretendToBeGooglePlay%5C%22%3Afalse%2C%5C%22allowInsecure%5C%22%3Afalse%2C%5C%22exemptFromBackgroundUpdates%5C%22%3Afalse%2C%5C%22skipUpdateNotifications%5C%22%3Afalse%2C%5C%22about%5C%22%3A%5C%22%5C%22%2C%5C%22refreshBeforeDownload%5C%22%3Afalse%2C%5C%22includeZips%5C%22%3Afalse%2C%5C%22zippedApkFilterRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22includeTarballs%5C%22%3Afalse%2C%5C%22tarballedApkFilterRegEx%5C%22%3A%5C%22%5C%22%7D%22%2C%22overrideSource%22%3Anull%7D)
+Swivel is **not currently available for release**.
+
+There is **no confirmed release date** at this time.
+
+Download information will be added here once an official Swivel release becomes available.
+
+## 🌐 Original Swiff
+
+Interested in the **original Swiff project**?
+
+Swivel is a fork of Swiff, and the original project is still worth checking out if you want to learn more about where Swivel came from.
+
+### Original Project
+
+- **GitHub:** [NaviVani-dev/Swiff](https://github.com/NaviVani-dev/Swiff)
+- **Latest Releases:** [Swiff Releases](https://github.com/NaviVani-dev/Swiff/releases/latest)
+- **Discord:** [Join the Swiff Discord](https://discord.gg/E4qy7ktjmU)
+- **Website / Interview:** [Inside Swiff — An Interview with NaviVani](https://gardinerbryant.com/inside-swiff-an-interview-with-navivani/)
+
+### Original Swiff Credits
+
+The original Swiff project was created by **NaviVani**.
+
+For the original project's development, updates, community, credits, and support, please refer to the official Swiff repository and its community channels above.
 
 ## Community
-I have created a Discord for people to talk about Swiff, feel free to hop in to our small community!
-### [Join the discord](https://discord.gg/E4qy7ktjmU)
 
-## Issues and features
-Having an error with Swiff? You have a cool idea? Please check this repository Issues page to share your thoughts!
+Swivel community information will be added as development progresses.
+
+For questions, suggestions, and development discussions, please use the repository's **Issues** page.
+
+## Issues and Features
+
+Found an issue with Swivel or have an idea for a future feature?
+
+Please use the repository's **Issues** page to report problems, suggest improvements, or share feedback.
 
 ## FAQ
-<details>
-<summary><strong>What is Swiff?</strong></summary>
 
-It's an application to run old Flash games and animations directly on your Android devices. It has been evolving into an app to also enjoy J2ME games, Scratch games and Web games, all of them with the same features!
+<details>
+<summary><strong>What is Swivel?</strong></summary>
+
+Swivel is an upcoming Android application based on the Swiff project.
+
+It is designed to make it easy to play old Flash games and animations alongside J2ME, Scratch, HTML5, and other web games.
+
+Swivel is being developed as a fork with its own changes and improvements.
 
 </details>
 
 <details>
-<summary><strong>Does every game works?</strong></summary>
+<summary><strong>Is Swivel available yet?</strong></summary>
 
-Depends on what player you're using, Swiff offers to play Flash content with Ruffle and AwayFL out of the box, however, after [Version 1.3](https://github.com/NaviVani-dev/Swiff/releases/tag/v1.3.0) you can now play Flash content using the original Flash Player, which should make all games compatible!
+Not yet.
 
-</details>
-
-<details>
-  
-<summary><strong>Why was Swiff made?</strong></summary>
-
-I wanted to play [A Koopa Revenge 2](https://www.newgrounds.com/portal/view/646067) on my AYN Thor, I tried some alternatives on Android, but most of them were full of ads, slow, and didn't play well with Android frontends, so i decided to build my own.
-If you wanna know more about me or Swiff, you can [read this interview!](https://gardinerbryant.com/inside-swiff-an-interview-with-navivani/)
+Swivel is currently in development. It is planned to release in the future, but **no official release date has been confirmed**.
 
 </details>
 
 <details>
+<summary><strong>Is Swivel the original Swiff app?</strong></summary>
 
-<summary><strong>Will Swiff be Open Source?</strong></summary>
+No.
 
-I dunno, this is one of my best projects and I kinda wanna have control over it (I feel like it's my baby), if I decide to abandon the project for some reason I will 100% release the source code here, but for now I think it will stay closed source.
+**Swivel is an independent fork of Swiff.**
+
+If you're looking for the original Swiff application, visit the [original Swiff GitHub repository](https://github.com/NaviVani-dev/Swiff) or its [Discord community](https://discord.gg/E4qy7ktjmU).
 
 </details>
 
 <details>
-  
-<summary><strong>Who is that anime girl on the art?</strong></summary>
+<summary><strong>What is Swivel based on?</strong></summary>
 
-That's [Swiff-chan](./assets/swiffchan-ref.png)! The mascot of the app, she says hi.
-<picture>
-  <source
-    srcset="./assets/swiffchanhi.png"
-  />
-  <img width="350" src="./assets/swiffchanhi.png"" />
-</picture>
+Swivel is based on [Swiff](https://github.com/NaviVani-dev/Swiff), an Android application created to bring Flash and other legacy game content to modern Android devices.
+
+Swivel will introduce its own changes and improvements as development continues.
 
 </details>
 
-## Acknowledgement
-- Everyone who made the flash games! You guys made the childhood of a lot of people on the internet.
-- The [Ruffle project](https://ruffle.rs/) and the [AwayFL project](https://awayfl.org/) for making Flash content playable again!
-- This app would'nt be possible without the [Flashpoint Archive](https://flashpointarchive.org/). We use their database to display and download all of the games in the app.
-- Also, huge shoutout to [lnkd](https://buymeacoffee.com/lnkd) for helping me test the app prototypes, suggesting cool features and making the logo of the app.
-- And another shoudout to [Anti](https://tristan-serva-com.l.ink/) for making some sound effects for the app!
-For a full list of credits and licenses, please check the Licenses page in-app
+<details>
+<summary><strong>Will Swivel have the same features as Swiff?</strong></summary>
 
-## ☕ Support Me
-If you enjoy this project and you have an extra buck, please consider donating to my Ko-Fi!
+Swivel is based on Swiff, but it may include changes, modifications, new features, or other differences from the original project.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/navivani_dev)
+More information will be provided as development continues.
+
+</details>
+
+## Acknowledgements
+
+Swivel would not be possible without the projects, developers, and communities that helped make this possible.
+
+- **NaviVani** and the original [Swiff](https://github.com/NaviVani-dev/Swiff) project
+- Everyone who created the Flash games and other content preserved by these projects
+- The [Ruffle project](https://ruffle.rs/) and [AwayFL project](https://awayfl.org/) for helping make Flash content playable again
+- The [Flashpoint Archive](https://flashpointarchive.org/) for its incredible preservation work
+- The developers and contributors behind the technologies Swivel builds upon
+- Everyone helping preserve classic games and internet history
+
+For a full list of applicable credits and licenses, please check the repository's license and credits files.
+
+## 🔗 Swivel
+
+**Swivel GitHub Repository:**  
+[MarshMeadow/Swivel](https://github.com/MarshMeadow/Swivel)
+
+---
+
+<p align="center">
+  <strong>Swivel — Coming Soon™</strong>
+</p>
+
+<p align="center">
+  No release date has been confirmed yet.
+</p>
